@@ -23,6 +23,8 @@
 ServoInit();					//初始化舵机端口
 Delay_ms(50);					//延时
 ```
-![photo](./photo.png)
+![photo](./photo1.png)
+
 这段代码的作用是告诉飞控初始化舵机PA3引脚的定时器相关配置
+
 
